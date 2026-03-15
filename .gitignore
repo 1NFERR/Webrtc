@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.venv/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Video assets (likely large files)
+cams_videos/
+assets/
